@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Alizay 👋
 
-<!--
-**alizay-k/alizay-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Backend & AI Developer | Python • FastAPI • SQL • OpenAI
 
-Here are some ideas to get you started:
+I'm currently following a project-based roadmap to build strong real-world skills in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ Backend API Development (FastAPI + JWT)
+- ✅ Automation Scripts & CLI Tools (Python)
+- ✅ SQL Dashboards & Data Analysis (PostgreSQL)
+- ✅ AI Assistants using OpenAI API & Prompt Engineering
+- ✅ Cybersecurity Best Practices (OWASP Top 10)
+
+🎓 Currently Learning: CS50P by Harvard, Google IT Automation with Python  
+📁 Projects in progress — follow my journey on GitHub and LinkedIn
+
+🔗 [LinkedIn](www.linkedin.com/in/alizay-kanwal-aa3b04372)  
+📫 Contact: alizaaykanwal@gmail.com
+
+---
+
+✨ *Building in public. Learning consistently. On a mission to break into tech — and stay there.*
