@@ -27,7 +27,8 @@ Focused on **building clean, real-world data analysis projects** while learning 
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: [https://www.linkedin.com/in/alizaykanwal/](https://www.linkedin.com/in/alizaykanwal/)  
+- LinkedIn: www.linkedin.com/in/alizay-kanwal-aa3b04372
+ 
 - Email: alizaaykanwal@gmail.com  
 
 ---
