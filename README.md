@@ -1,23 +1,35 @@
 # 👋 Hi, I'm Alizay
 
-💻 QA Automation | 🧠 AI Testing | 📊 Data Engineering  
-Focused on building clean, tested, real-world solutions with Python.
+💻 Aspiring Junior Data Analyst | 📊 Learning Python, SQL, Pandas, Matplotlib, Seaborn & Power BI  
+Focused on **building clean, real-world data analysis projects** while learning consistently.
 
 ---
 
-**🧩 Focused Skills:**
-- Python, SQL (PostgreSQL, SQLite)
-- API/UI Testing (Postman, Playwright, pytest)
-- Pandas, Faker, LangChain, LangSmith
-- Git, GitHub Actions, CI/CD, Docker
+## 🧩 Skills & Tools
+- **Programming & Data:** Python, SQL (PostgreSQL, SQLite), Pandas, Matplotlib, Seaborn  
+- **Data Visualization & BI:** Power BI  
+- **Version Control & Collaboration:** Git, GitHub  
 
 ---
 
-📁 Projects in progress — follow my journey on GitHub and LinkedIn.
-
-🔗 [LinkedIn](https://www.linkedin.com/in/alizay-kanwal-aa3b04372)  
-📫 Contact: alizaaykanwal@gmail.com
+## 📁 Projects & Learning
+- Building **real-world datasets, data analysis, and visualizations**  
+- Sharing my learning journey and **portfolio projects on GitHub**  
+- Currently focused on Python libraries and Power BI to become a **junior data analyst**  
 
 ---
 
-✨ *Building in public. Learning consistently. On a mission to break into tech — and stay there.*
+## 📈 Portfolio Highlights
+- Sales Data Analysis with Python, Pandas & Matplotlib  
+- Exploratory Data Analysis projects with real-world datasets  
+- Feature engineering, cleaning, and visualization practice  
+
+---
+
+## 🔗 Connect with Me
+- LinkedIn: [https://www.linkedin.com/in/alizaykanwal/](https://www.linkedin.com/in/alizaykanwal/)  
+- Email: alizaaykanwal@gmail.com  
+
+---
+
+✨ Building in public. Learning consistently. On a mission to become a **data analyst** and share my journey.
