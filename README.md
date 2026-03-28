@@ -33,7 +33,7 @@ Everything I learn gets documented here on GitHub daily.
 
 ## 📬 Connect With Me
 
-- LinkedIn: [www.linkedin.com/in/alizay-kanwal-aa3b04372Vanity URL name]
+- LinkedIn: [www.linkedin.com/in/alizay-kanwal-aa3b04372]
 
 ---
 
