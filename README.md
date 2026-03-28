@@ -1,7 +1,6 @@
 # Hi, I'm Alizay 👋
 
-🎯 Aspiring Cloud Engineer & Security Analyst  
-📍 Karachi, Pakistan → Remote/International  
+🎯 Aspiring Cloud Engineer & Security Analyst   
 🔨 Building in public — every day, every commit
 
 ---
