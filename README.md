@@ -16,7 +16,8 @@ Everything I learn gets documented here on GitHub daily.
 ## 📅 Current Progress
 
 - ✅ Day 1: Terminal & Navigation — DONE
-- 🔄 Day 2: File Management — UP NEXT
+- ✅ Day 2: File Management — DONE
+- 🔄 Day 3:  Viewing Files, Pipes & Redirection - UP NEXT
 
 ---
 
