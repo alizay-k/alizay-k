@@ -37,5 +37,4 @@ Everything I learn gets documented here on GitHub daily.
 
 ---
 
-*I post weekly updates on LinkedIn about what I built that week.  
-Day 1 is done. Let's go.*
+*I post weekly updates on LinkedIn about what I built that week.*
