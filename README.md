@@ -17,7 +17,9 @@ Everything I learn gets documented here on GitHub daily.
 
 - ✅ Day 1: Terminal & Navigation — DONE
 - ✅ Day 2: File Management — DONE
-- 🔄 Day 3:  Viewing Files, Pipes & Redirection - UP NEXT
+- ✅ Day 3: Viewing Files, Pipes & Redirection - DONE
+- 🔄 Day 4: Find & grep — Searching Like a Pro -UP NEXT
+- 🔄 Day 5: File Permissions — Critical Security Concept - UP NEXT
 
 ---
 
