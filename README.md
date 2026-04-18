@@ -15,11 +15,8 @@ Everything I learn gets documented here on GitHub daily.
 
 ## 📅 Current Progress
 
-- ✅ Day 1: Terminal & Navigation — DONE
-- ✅ Day 2: File Management — DONE
-- ✅ Day 3: Viewing Files, Pipes & Redirection - DONE
-- ✅ Day 4: Find & grep — Searching Like a Pro -DONE
-- 🔄 Day 5: File Permissions — Critical Security Concept - UP NEXT
+- ✅ Week : 01 -DONE
+- 🔄 Week : 02 -UPNEXT
 
 ---
 
