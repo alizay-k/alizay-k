@@ -23,7 +23,7 @@ I'm learning data analysis from scratch. This is my public journey to becoming a
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Sales Analysis]([View Code](week1_sql/practice.py)) | GROUP BY/HAVING practice with sales data | SQLite, Python |
+| [Sales Analysis]([View Code](https://github.com/alizay-k/data-analyst-roadmap/blob/main/week1_sql/practice.py))) | GROUP BY/HAVING practice with sales data | SQLite, Python |
 | More coming soon... | | |
 
 ---
