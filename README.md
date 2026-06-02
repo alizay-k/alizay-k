@@ -50,8 +50,8 @@ I'm learning data analysis from scratch. This is my public journey to becoming a
 
 ### 📫 Connect with me
 
-- [LinkedIn](www.linkedin.com/in/alizay-kanwal-aa3b04372)
-- [Email](alizaaykanwal@gmail.com)
+- [LinkedIn](https://linkedin.com/in/alizay-kanwal)
+- [Email](mailto:alizaaykanwal@gmail.com)
 
 ---
 
