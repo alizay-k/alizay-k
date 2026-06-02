@@ -32,7 +32,7 @@ I'm learning data analysis from scratch. This is my public journey to becoming a
 
 | Date | What I learned | Code |
 |------|----------------|------|
-| June 2, 2026 | GROUP BY, HAVING, aggregates (SUM, AVG, COUNT) | [View](link-to-your-practice.py) |
+| June 2, 2026 | GROUP BY, HAVING, aggregates (SUM, AVG, COUNT) | [View](https://github.com/alizay-k/data-analyst-roadmap/blob/main/data-analyst-roadmap/week1_sql/practice.py) |
 | More daily updates... | | |
 
 ---
