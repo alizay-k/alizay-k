@@ -1,39 +1,64 @@
-# Hi, I'm Alizay 👋
+# 👋 Hi, I'm Alizay
 
-🎯 Aspiring Cloud Engineer & Security Analyst   
-🔨 Building in public — every day, every commit
+## 📊 Data Analyst in Training
 
----
-
-## 🚀 What I'm Building
-
-I am on a structured 6-month journey from Linux fundamentals  
-to Cloud Engineering and Cybersecurity.  
-Everything I learn gets documented here on GitHub daily.
+I'm learning data analysis from scratch. This is my public journey to becoming a job-ready data analyst in 2026.
 
 ---
 
-## 📅 Current Progress
+### 🔥 What I'm working on right now
 
-- ✅ Week : 01 -DONE
-- 🔄 Week : 02 -UPNEXT
-
----
-
-## 🧰 What I'm Learning
-
-- Linux command line
-- Bash scripting
-- Python automation
-- AWS cloud infrastructure
-- Cybersecurity fundamentals
+| Week | Focus | Status |
+|------|-------|--------|
+| Week 1 | SQL Fundamentals (GROUP BY, HAVING, JOINs) | 🔄 In Progress |
+| Week 2 | Advanced SQL + First Client Project | 📅 Planned |
+| Week 3 | Python for Data Analysis | 📅 Planned |
+| Week 4 | BigQuery + Snowflake | 📅 Planned |
+| Week 5 | dbt + Power BI | 📅 Planned |
+| Week 6 | Portfolio + Job Applications | 📅 Planned |
 
 ---
 
-## 📬 Connect With Me
+### 📁 My Projects
 
-- LinkedIn: [www.linkedin.com/in/alizay-kanwal-aa3b04372]
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Sales Analysis]() | GROUP BY/HAVING practice with sales data | SQLite, Python |
+| More coming soon... | | |
 
 ---
 
-*I post weekly updates on LinkedIn about what I built that week.*
+### 📈 My Daily Progress
+
+| Date | What I learned | Code |
+|------|----------------|------|
+| June 2, 2026 | GROUP BY, HAVING, aggregates (SUM, AVG, COUNT) | [View](link-to-your-practice.py) |
+| More daily updates... | | |
+
+---
+
+### 🛠️ Tools I'm learning
+
+- ✅ SQL (SQLite)
+- 🔄 Python (pandas)
+- 📅 BigQuery
+- 📅 Snowflake
+- 📅 Power BI
+- 📅 dbt
+
+---
+
+### 📫 Connect with me
+
+- [LinkedIn](www.linkedin.com/in/alizay-kanwal-aa3b04372)
+- [Email](alizaaykanwal@gmail.com)
+
+---
+
+### 🎯 My Goal
+
+**Remote Data Analyst role paying $60k–80k by end of 2026**
+
+---
+
+*Daily commits = daily progress. Follow my journey.*
